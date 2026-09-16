@@ -90,7 +90,7 @@ Download **Steri-Pass** from the App Store:
 
 Download **Steri-Pass** from the Play Store:
 
-▶️ **Pay Store:** https://play.google.com/store/apps/details?id=com.mazedigital.steripass
+▶️ **Play Store:** https://play.google.com/store/apps/details?id=com.mazedigital.steripass
 
 ---
 
